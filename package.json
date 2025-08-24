@@ -16,7 +16,7 @@
 		"react-virtualized": "^9.22.3"
 	},
 	"devDependencies": {
-		"eslint-plugin-jsdoc": "^39.3.0"
+		"eslint-plugin-jsdoc": "^54.1.1"
 	},
 	"scripts": {
 		"start": "react-scripts start",
